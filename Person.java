@@ -11,5 +11,6 @@ public class Person {
 
     void someMethod() {
         System.out.println("Some content");
+        System.out.println("Once again");
     }
 }
