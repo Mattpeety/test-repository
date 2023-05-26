@@ -6,5 +6,10 @@ public class Person {
         int a = 3;
         int b = 6;
         int result = a + b;
+
+    }
+
+    void someMethod() {
+        System.out.println("Some content");
     }
 }
