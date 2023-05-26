@@ -11,8 +11,10 @@ public class Person {
         // jeeeeeeeeeeeeeeeeeeeeeeeeee
         int result = a + b;
 
-        public void someMethod() {
 
-        }
+    }
+
+    public void someMethod() {
+
     }
 }
