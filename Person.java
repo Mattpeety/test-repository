@@ -16,5 +16,6 @@ public class Person {
 
     public void someMethod() {
         System.out.println("Some conntent2");
+        System.out.println("Next content");
     }
 }
