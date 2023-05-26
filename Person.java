@@ -9,7 +9,7 @@ public class Person {
 
     }
 
-    void someMethod() {
+    void someMethod454() {
         System.out.println("Some content");
         System.out.println("Once again");
     }
